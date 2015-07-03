@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Map Display</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- NEW STRINGS FOR THIS APP -->
+
+    <string name="lat_string">Latitude</string>
+    <string name="long_string">Longitude</string>
+    <string name="button_string">View on Map</string>
+</resources>
